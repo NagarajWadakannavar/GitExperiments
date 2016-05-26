@@ -4,3 +4,5 @@ Hello Nagaraj
 Hi, Now you are in development branch.
 
 Git is great!
+
+step1: fast-forward testing in git.
