@@ -6,3 +6,5 @@ Hi, Now you are in development branch.
 Git is great!
 
 step1: fast-forward testing in git.
+
+step2: Added this line in master branch
