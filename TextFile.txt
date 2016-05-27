@@ -7,4 +7,6 @@ Git is great!
 
 step1: fast-forward testing in git.
 
-Step2: step 2 added in development brach to test conflicts and fast-forwarding
+Step2: step 2 added in development brach to test conflicts and fast-forwardin
+
+Today is Firday!!!!!!!!! Let's party........
